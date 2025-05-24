@@ -6,7 +6,6 @@ This repository contains dashboard projects created using **Microsoft Excel**:
 - Visualizes total sales by outlet type, item type, fat content, and outlet size.
 - Built entirely in Microsoft Excel with pivot tables and charts.
 - ### Blinkit Dashboard
-![Blinkit]
 <img src="Screenshot 2025-05-16 154807.png"/>
 
 ## 🔧 Tools Used
